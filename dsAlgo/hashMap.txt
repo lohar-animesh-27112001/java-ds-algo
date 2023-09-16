@@ -1,0 +1,3 @@
+MAP Interface -> 1) Hash-Map , 2) Linked Hash-Map , 3) Sorted Map( Tree Hash-Map )
+HashMap : not store in order
+Linked HAshMap / Tree HAsh Map : store in order

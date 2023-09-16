@@ -1,0 +1,2 @@
+Why Binary tree : we can solve huffman coding problem ,
+				  Heap priority problem , Red black trees
