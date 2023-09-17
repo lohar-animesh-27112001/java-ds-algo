@@ -1,5 +1,3 @@
-package udemy;
-
 public class AVL_Node {
 	public int value;
 	public int height;
