@@ -1,5 +1,3 @@
-package udemy;
-
 import java.util.Arrays;
 
 public class Array {
