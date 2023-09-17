@@ -5,4 +5,4 @@
  * @author lohar
  *
  */
-package udemy;
+package dsAlgo;
