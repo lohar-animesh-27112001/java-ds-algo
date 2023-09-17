@@ -1,5 +1,3 @@
-package udemy;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -177,7 +175,7 @@ public class BST_LinkedList {
 			}
 			root.value = successor.value;
 			if (succRootNode != root) {
-				succRootNode.leftChild = successor.leftChild;
+				succRootNode.leftChild = successor.rightChild;
 			} else {
 				succRootNode.rightChild = successor.rightChild;
 			}
