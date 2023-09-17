@@ -1,4 +1,4 @@
-package udemy;
+package dsAlgo;
 
 public class Circular_Doubly_Linked_list {
 
