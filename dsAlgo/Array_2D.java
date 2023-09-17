@@ -1,5 +1,3 @@
-package udemy;
-
 import java.util.*;
 
 public class Array_2D {
