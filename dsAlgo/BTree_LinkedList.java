@@ -1,4 +1,4 @@
-package udemy;
+package dsAlgo;
 
 import java.util.Scanner;
 
